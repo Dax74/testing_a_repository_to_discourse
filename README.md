@@ -1,2 +1,2 @@
-# test
-repositoty test
+# testing import issue
+repository test
